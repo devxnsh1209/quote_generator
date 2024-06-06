@@ -45,7 +45,7 @@ where "url you just copied" (without the quotation marks) is the url to this rep
 For example:
 
 ```
-git clone https://github.com/this-is-you/Quotes-Generator.git
+git clone https://github.com/this-is-you/quotes_generator.git
 ```
 
 where `this-is-you` is your GitHub username. Here you're copying the contents of the Quotes-Generator repository on GitHub to your computer.
@@ -55,7 +55,7 @@ where `this-is-you` is your GitHub username. Here you're copying the contents of
 Change to the repository directory on your computer (if you are not already there):
 
 ```
-cd Quotes-Generator
+cd quotes_generator
 ```
 
 Now create a branch using the `git checkout` command:
